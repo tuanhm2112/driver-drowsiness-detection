@@ -62,7 +62,7 @@ flowchart TD
 
 ---
 
-## 📊 Model Benchmark Results
+## Model Benchmark Results
 
 Evaluated on test sets with 60-frame sequence windows (2 seconds at 30 FPS):
 
