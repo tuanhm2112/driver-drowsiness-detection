@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screen_background">#020617</color>
+    <color name="card_overlay">#B3122033</color>
+    <color name="button_primary">#2563EB</color>
+    <color name="button_primary_pressed">#1D4ED8</color>
+    <color name="progress_track">#334155</color>
+    <color name="progress_fill">#93C5FD</color>
+</resources>

@@ -1,0 +1,78 @@
+# ==========================================
+# Git Ignore Configuration
+# Driver Drowsiness Detection System
+# ==========================================
+
+# --- Python & Virtual Environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# --- Datasets & Raw Media (DO NOT commit raw large video/data) ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.m4v
+Dataset_Main_Capstone/
+Dataset_NPZ/
+data_raw/
+data_processed/
+
+# --- Android & Gradle ---
+*.iml
+.gradle/
+build/
+*/build/
+*/*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*/local.properties
+.kotlin/
+*/.kotlin/
+*.apk
+*.aab
+output.json
+
+# --- IDEs & Code Editors ---
+.idea/
+*/.idea/
+.vscode/
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# --- Temporary & Scratch files ---
+temp_patch_probe.txt
+*.tmp
+*.temp
+*.log

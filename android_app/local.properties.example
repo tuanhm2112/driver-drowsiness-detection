@@ -1,0 +1,6 @@
+## This file is an example template for local SDK configuration.
+## Android Studio will automatically create local.properties when you open the project.
+## If building via CLI without Android Studio, set your Android SDK location:
+# sdk.dir=C\:\\Users\\<YourUsername>\\AppData\\Local\\Android\\Sdk
+# Or on macOS/Linux:
+# sdk.dir=/Users/<YourUsername>/Library/Android/sdk
