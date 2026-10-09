@@ -15,7 +15,7 @@ An end-to-end, edge-deployable **Driver Drowsiness and Fatigue Detection System*
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 - **Edge-First Design:** Entire inference pipeline runs 100% on-device (offline) without server latency or privacy concerns.
 - **Ultra-Lightweight Model:** BiLSTM model has a footprint of only **~64 KB (PyTorch)** and **~28 KB (ONNX)**, with inference latency **< 10ms** per sliding window.
@@ -29,7 +29,7 @@ An end-to-end, edge-deployable **Driver Drowsiness and Fatigue Detection System*
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 flowchart TD
@@ -82,7 +82,7 @@ Evaluated on test sets with 60-frame sequence windows (2 seconds at 30 FPS):
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -135,7 +135,7 @@ Evaluated on test sets with 60-frame sequence windows (2 seconds at 30 FPS):
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Environment Setup
 
@@ -214,7 +214,7 @@ python export_android_assets.py \
 
 ---
 
-## 👤 Author
+## Author
 
 **Hoang Minh Tuan**
 - GitHub: [@tuanhm2112](https://github.com/tuanhm2112)
